@@ -18,6 +18,8 @@ Tiny Python Projects [Tiny Python Projects](https://github.com/kyclark/tiny_pyth
 
 Boxes: Your Second Python Book [Boxes: Your Second Python Book](http://ralsina.gitlab.io/boxes-book/)
 
+OOP Group [OOP Group](https://github.com/earthlab/oop-group)
+
 
 # Other
 
